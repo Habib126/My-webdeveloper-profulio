@@ -114,3 +114,17 @@ nav li {
     background-color: #FFF8F3;
     margin: 130px 0px;
 }
+
+main {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.sotani {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info-container {
+    text-align: center;
+}
